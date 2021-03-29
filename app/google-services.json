@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842201131511",
+    "project_id": "fake-calls-6976f",
+    "storage_bucket": "fake-calls-6976f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842201131511:android:afb29f3a3d95f94135a6f2",
+        "android_client_info": {
+          "package_name": "com.example.fakecalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842201131511-bvfh8h5fthculi4bbrm73acpsn2ir3nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNZCvYpoM7vWRjck_lKxsu1yl2ssZ0PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842201131511-bvfh8h5fthculi4bbrm73acpsn2ir3nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
