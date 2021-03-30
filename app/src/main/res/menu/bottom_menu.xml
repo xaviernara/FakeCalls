@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/call_menu"
+        android:enabled="true"
+        android:icon="@mipmap/call_menu_ic"
+        android:title="Fake Call"
+        />
+
+    <item
+        android:id="@+id/logout_menu"
+        android:enabled="true"
+        android:icon="@drawable/logout_menu_ic"
+        android:title="Log Out"
+        />
+
+
+
+</menu>
