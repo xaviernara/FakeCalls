@@ -42,5 +42,12 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    fun bottomNavVisibility(isVisible: Boolean) {
+
+        if( isVisible) BottomNavigationView.VISIBLE
+        else BottomNavigationView.GONE
+
+    }
+
 
 }
